@@ -6,7 +6,7 @@
 2. data validation
 3. Data Transformation
 4. Model Trainer
-5. Model evaluation
+5. Model evaluation with MLFLOW , Dagshub
 
 ## Workflows
 
